@@ -1,0 +1,192 @@
+/* Scss Document */
+
+body{
+    background-image: url(../images/bgsgray/graypg2.jpg);
+	direction: rtl;
+	font-weight: bold;
+}
+
+p{
+	font-weight: bold;
+}
+
+a{
+	color: white;
+}
+
+h4{
+	margin-top: 1em;
+}
+
+.logos {
+	
+}
+
+.border-1sw {
+	border: 1px solid white;
+	padding: 0.1rem;
+}
+
+.border-2sw {
+	border: 2px solid white;
+	border-radius: 0.25rem;
+	padding: 0.1rem;
+}
+
+.border-3sd {
+	border: 3px solid #333333;
+	border-radius: 0.25rem;
+	padding: 0.1rem;
+}
+
+.border-1sd {
+	border: 1px solid #333333;
+	border-radius: 0.25rem;
+	padding: 0.1rem;
+}
+
+.border-2sd {
+	border: 2px solid #333333;
+	border-radius: 0.25rem;
+	padding: 0.1rem;
+}
+
+.border-3sd {
+	border: 3px solid #333333;
+	border-radius: 0.25rem;
+	padding: 0.1rem;
+}
+
+.tbl-row {
+	border: thick;
+}
+
+.tbl-col {
+	border: thin solid white;
+}
+
+.tbl-h {
+	font-weight: bold;
+	border: thin solid lightgray;
+}
+
+.tbl-h1 {
+	font-size: .8em;
+	text-align: center;
+	padding-top: .3em;
+}
+
+.course-desc-rcp-item {
+	background-color: #555555;
+	font-size: .8em;
+	margin-left: -1px;
+}
+
+.course-desc-lcp-item {
+	background-color: #555555;
+	font-size: .8em;
+	margin-left: -1px;
+}
+
+.course-desc-sh {
+	
+}
+
+.lclient-logo {
+	width: 10rem;
+	height: 10rem;
+}
+
+.gallery-pic {
+	width: 90%;
+}
+
+.font-sm {
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+.tbl-row1 {
+	background-color: lightgrey;
+}
+
+.tbl-row2 {
+	background-color: 
+#F0F0F0}
+
+.tbl-row0 {
+}
+
+.day-odd {
+	background-color: #eeeeee;
+}
+
+.logodiv {
+	padding: 1px;
+}
+
+
+.w95auto {
+	width: 95%; 
+	margin: auto;
+}
+
+.topacity {
+	background-color: white; 
+	opacity: 0.8;
+}
+
+.w90auto {
+	width: 90%;
+	margin: auto;
+}
+
+.font2em {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.bnav {
+	font-size: 0.8em;
+	color: white;
+	background-color: #343a40;
+	padding: 1.5rem;
+}
+
+.social-icon {
+	width:3em; 
+	height:3em;
+}
+
+.post-like {
+	height: 2em;
+}
+
+.post-img {
+	width: 500px; 
+	height: 300px;
+}
+
+.font-1p5 {
+	font-size: 1.5em;
+}
+
+.nav-bg-custom {
+	background-color: rgb(0,50,0,0.8);
+}
+
+
+.card-title {
+	background-color: darkolivegreen;
+	color: white;
+	padding: 0.3em;
+	border-radius: 15%;
+}
+
+.bg-cust-side {
+	background-color: rgb(0,20,0,.8)
+}
+
+.card-custom {
+	background-color: rgba(255,255,255,0.90)
+}
